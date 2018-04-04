@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- encoding: utf-8; py-indent-offset: 4 -*-
 
-#
-# 3/2018 Edoardo Marchetti
+# (c) 2018, Edoardo Marchetti <marchetti.edoardo@gmail.com>
+# https://github.com/jas31085/CrontabListPerUser
 #
 
 # Example output from agent:
